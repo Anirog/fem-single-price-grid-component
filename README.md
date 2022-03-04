@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned to use CSS custome properties (variables) for the colours and also the padding, this wasn't really neccesary on a project this size but it will be helpful in future projects. 
+I learned to use CSS custom properties (variables) for the colours and also the padding, this wasn't really neccesary on a project this size but it will be helpful in future projects. 
 
 Example of CSS variables
 
