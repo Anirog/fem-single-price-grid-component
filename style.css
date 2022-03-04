@@ -43,12 +43,12 @@ h3 {
 }
 
 h2 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     margin-bottom: 1.25rem;
 }
 
 h3 {
-    font-size: 1.1rem;
+    font-size: 1.125rem;
 }
 
 p {
@@ -58,7 +58,7 @@ p {
 .price {
     border-radius: 0.5rem;
     overflow: hidden;
-    max-width: 40rem;
+    max-width: 47rem;
     margin: auto;
 }
 
@@ -67,6 +67,7 @@ p {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(2, auto);
+        margin-top: 8rem;
     }
 
     .community {
@@ -74,7 +75,7 @@ p {
     }
 }
 
-.price>* {
+.price > * {
     padding: var(--paddingx) var(--paddingy);
 }
 
@@ -87,14 +88,14 @@ p {
 }
 
 .community .subtitle {
-    font-size: 1rem;
+    font-size: 1.125rem;
     color: var(--yellow);
     font-weight: bold;
     margin-bottom: 1rem;
 }
 
 .community p {
-    font-size: 0.85rem;
+    font-size: 1rem;
     line-height: 1.75;
     margin-bottom: 0;
 }
